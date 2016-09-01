@@ -1,0 +1,14 @@
+C:\Users\marko\Desktop\Maki1\test\bin\test.dll
+C:\Users\marko\Desktop\Maki1\test\bin\test.pdb
+C:\Users\marko\Desktop\Maki1\test\obj\Debug64\test.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\Maki1\test\obj\Debug64\test.dll
+C:\Users\marko\Desktop\Maki1\test\obj\Debug64\test.pdb
+C:\Users\marko\Desktop\Maki1\test\bin\WpfApplication1.exe
+C:\Users\marko\Desktop\Maki1\test\bin\WpfApplication1.pdb
+C:\Users\marko\Desktop\Maki1\WpfApplication1\test\bin\test.dll
+C:\Users\marko\Desktop\Maki1\WpfApplication1\test\bin\test.pdb
+C:\Users\marko\Desktop\Maki1\WpfApplication1\test\bin\WpfApplication1.exe
+C:\Users\marko\Desktop\Maki1\WpfApplication1\test\bin\WpfApplication1.pdb
+C:\Users\marko\Desktop\Maki1\WpfApplication1\test\obj\Debug64\test.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\Maki1\WpfApplication1\test\obj\Debug64\test.dll
+C:\Users\marko\Desktop\Maki1\WpfApplication1\test\obj\Debug64\test.pdb
